@@ -26,10 +26,10 @@ with open("text.txt","r") as f1:
 ~~~
 ### OUTPUT:
 
-![output](./img/1.png)
+![output](1.png)
 
 
-![copy](./img/2.png)
+![copy](2.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
